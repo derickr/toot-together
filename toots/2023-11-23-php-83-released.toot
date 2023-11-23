@@ -1,0 +1,14 @@
+🥳  PHP 8.3 Released!
+
+In this new release, we have:
+
+⌨️ Typed Class Constants
+🏛️ Dynamic Class Content Fetch
+♻️ A New [#Override] Attribute
+🐑 Deep-Cloning of Readonly Properties
+:javascript: A New json_validate Function
+
+👓  Read all about it on: https://www.php.net/releases/8.3/en.php
+
+🔗 https://php.net/ChangeLog-8#8.3.0
+📦 https://php.net/downloads
