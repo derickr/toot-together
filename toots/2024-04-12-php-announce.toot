@@ -1,0 +1,18 @@
+📣 Announcing the availability of:
+
+- PHP 8.3.6
+- PHP 8.2.18
+- PHP 8.1.28
+
+‼️ These SECURITY releases fix:
+
+- proc_open workaround Windows with escaping arguments for bat/cmd files
+- __Host-/__Secure cookie bypass
+- Infinite loop in mb_encode_mimeheader
+- password_hash handling of null-charecter terminated $password
+
+Please upgrade ASAP.
+
+Changelog: https://www.php.net/ChangeLog-8.php
+Source: https://www.php.net/downloads
+Windows: https://windows.php.net/download/
