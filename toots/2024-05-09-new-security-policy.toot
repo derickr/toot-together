@@ -1,0 +1,5 @@
+🔒 The PHP project has recently decided to extend security support for versions from one to two years.
+
+💡 The same RFC also clarifies a few other items, such as when minor features can still be introduced during the release process.
+
+📜 You can read the updated document at: https://github.com/php/policies/blob/main/release-process.rst
