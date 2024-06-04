@@ -1,0 +1,5 @@
+:windows: Windows DLLs for most PECL extensions are back!
+
+:building_construction: @shivammathur has been working on GitHub Actions to automate the builds of these extensions.
+
+:nextstep: The next step is automating these builds so that extension authors can include steps in their release actions as well!
