@@ -1,0 +1,18 @@
+📣 Announcing the availability of:
+
+- PHP 8.3.8
+- PHP 8.2.20
+- PHP 8.1.29
+
+‼️ These SECURITY releases fix:
+
+- Argument Injection in PHP-CGI
+- Bypass in filter_var FILTER_VALIDATE_URL
+- proc_open workaround Windows with escaping arguments for bat/cmd files
+- openssl_private_decrypt vulnerability to the Marvin attack
+
+Please upgrade ASAP.
+
+Changelog: https://www.php.net/ChangeLog-8.php
+Source: https://www.php.net/downloads
+Windows: https://windows.php.net/download/
