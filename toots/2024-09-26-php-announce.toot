@@ -1,0 +1,18 @@
+📣 Announcing the availability of:
+
+- PHP 8.3.12
+- PHP 8.2.24
+- PHP 8.1.30
+
+‼️  These SECURITY releases fix:
+
+- Parameter injection vulnerability in CGI
+- Bypassable cgi.force_redirect configuration
+- Alterable logs in FPM children
+- Erroneous parsing of multipart form data
+
+Please upgrade ASAP.
+
+📝 Changelog: https://www.php.net/ChangeLog-8.php
+🎁 Source: https://www.php.net/downloads
+:windows8: Windows: https://windows.php.net/download/
