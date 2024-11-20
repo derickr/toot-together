@@ -1,16 +1,14 @@
 📣 Announcing the availability of:
 
-- PHP 8.3.14
-- PHP 8.2.26
-- PHP 8.1.31
+PHP 8.3.14, PHP 8.2.26, PHP 8.1.31
 
-‼️  These SECURITY releases fix:
+‼️ SECURITY fixes:
 
 - Heap-Use-After-Free in sapi_read_post_data
 - OOB access in ldap_escape
 - Leak partial content of the heap
-- Integer overflow in the dblib and firebird quoters
-- Configuring a proxy might allow for CRLF injection in URIs
+- Integer overflow in the dblib/firebird
+- CRLF injection in URIs with proxy
 - Single byte overread with convert.quoted-printable-decode filter
 
 Please upgrade ASAP.
