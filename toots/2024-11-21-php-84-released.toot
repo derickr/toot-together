@@ -1,0 +1,16 @@
+🥳 PHP 8.4 Released!
+
+In this new release, we have:
+
+- Property hooks
+- Asymmetric Visibility
+- A New #[Deprecated] Attribute
+- New ext-dom features and HTML5 support
+- New array_*() functions
+- PDO Driver specific SQL parsers
+- new MyClass()->method() without parentheses
+
+👓 Read all about it on: https://www.php.net/releases/8.4/en.php
+
+🔗 https://php.net/ChangeLog-8#8.4.1
+📦 https://php.net/downloads
