@@ -5,15 +5,12 @@
 - PHP 8.2.28
 - PHP 8.1.32
 
-‼️ SECURITY fixes:
+‼️ These address the following security issues:
 
-- segmentation fault _xml_startElementHandler()
-- HTTP wrapper basic auth check
-- HTTP wrapper redirect location
-- HTTP wrapper headers with colon behavior
-- wrong content-type header for libxml streams
-- handle folded headers by http stream wrapper
-- phpize for Windows 11
+- Several issues with the Stream HTTP wrapper
+- Use-After-Free during request shutdown
+- Out-of-Bounds read when using XML_OPTION_SKIP_TAGSTART
+- libxml streams can use the wrong content-type header
 
 📝 https://www.php.net/ChangeLog-8.php
 🎁 https://www.php.net/downloads
