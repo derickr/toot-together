@@ -1,0 +1,20 @@
+📣 Announcing the availability of:
+
+- PHP 8.4.5
+- PHP 8.3.19
+- PHP 8.2.28
+- PHP 8.1.32
+
+‼️ SECURITY fixes:
+
+- segmentation fault _xml_startElementHandler()
+- HTTP wrapper basic auth check
+- HTTP wrapper redirect location
+- HTTP wrapper headers with colon behavior
+- wrong content-type header for libxml streams
+- handle folded headers by http stream wrapper
+- phpize for Windows 11
+
+📝 https://www.php.net/ChangeLog-8.php
+🎁 https://www.php.net/downloads
+:windows8: https://windows.php.net/download/
