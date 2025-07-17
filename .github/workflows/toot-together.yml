@@ -19,7 +19,7 @@ jobs:
       - name: Toot
         uses: derickr/toot-together-action@visibility-option
         with:
-          visiblity: "public"
+          visibility: "public"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # URL to the instance hosting your Mastodon account
