@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name == 'pull_request'
     steps:
-      - uses: joschi/toot-together@v1.x
+      - uses: derickr/toot-together-action@visibility-option
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   toot:
@@ -17,7 +17,9 @@ jobs:
       - name: checkout master
         uses: actions/checkout@v2
       - name: Toot
-        uses: joschi/toot-together@v1.x
+        uses: derickr/toot-together-action@visibility-option
+        with:
+          visiblity: "public"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # URL to the instance hosting your Mastodon account
