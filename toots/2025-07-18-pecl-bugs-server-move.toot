@@ -1,0 +1,9 @@
+The infrastructure team is in the progress of moving all PHP related services and servers to a new Ansible managed infrastructure.
+
+This month, we moved over:
+
+📦 https://pecl.php.net — at some point we will be phasing out PECL for PIE, the website should be a lot snappier now.
+
+🐞 https://bugs.php.net — mostly visited by bots, we still would need to preserve it for historical context.
+
+#PHP #Infrastructure
