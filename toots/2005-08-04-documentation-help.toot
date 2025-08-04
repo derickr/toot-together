@@ -1,0 +1,13 @@
+🐘 We recently introduced WASM runnable-examples in the manual.
+
+An example: https://www.php.net/manual/en/language.operators.assignment.php
+
+We only enabled it for sections where we know the examples work, as they were not always written with runability in mind.
+
+ℹ️ We need to evaluate each section on https://github.com/php/doc-en/issues/4799, and verify the examples, whether they need a fix, or need other tweaks to make it work.
+
+For the random extension, this is what I did: https://github.com/php/doc-en/commit/1bcc40f8134305cbebf6c8378ee7e5fc8c569674
+
+❓ Will you help?
+
+#php #documentation #OpenSource 
