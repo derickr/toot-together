@@ -2,7 +2,7 @@
 
 This is the second beta for PHP 8.5, including
 
-- Continued implementation of PHP 8.5 deprecations
+- Further implementation of PHP 8.5 deprecations
 - Partitioned cookies
 - #[\DelayedTargetValidation] attribute
 - Bug fixes thanks to your testing and feedback
