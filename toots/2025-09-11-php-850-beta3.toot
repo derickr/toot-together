@@ -1,0 +1,18 @@
+🎉 PHP 8.5.0 Beta 3 is available for testing!
+
+- Support for Uri\Rfc3986\Uri::with*() methods
+- Retrieve Exif from HEIF file. 
+- The remaining deprecations for 8.5
+- Bug fixes thanks to your testing and feedback
+
+… and more!
+
+➕ Do: Test your projects!
+
+➖ Don't: Run it in production. It's not fully ready yet.
+
+Congratulations to @edorian@phpc.social, Daniel, and @adoy@phpc.social
+
+🔗 https://www.php.net/archive/2025.php#2025-09-11-1
+
+#PHP #PHP85 #Release
