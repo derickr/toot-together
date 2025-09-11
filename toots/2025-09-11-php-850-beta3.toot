@@ -1,8 +1,8 @@
 🎉 PHP 8.5.0 Beta 3 is available for testing!
 
 - Support for Uri\Rfc3986\Uri::with*() methods
-- Retrieve Exif from HEIF files. 
-- The remaining deprecations for 8.5
+- Retrieve Exif from HEIF files
+- Add PDO\Sqlite::ATTR_TRANSACTION_MODE connection attribute
 - Bug fixes thanks to your testing and feedback
 
 … and more!
