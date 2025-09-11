@@ -1,7 +1,7 @@
 🎉 PHP 8.5.0 Beta 3 is available for testing!
 
 - Support for Uri\Rfc3986\Uri::with*() methods
-- Retrieve Exif from HEIF file. 
+- Retrieve Exif from HEIF files. 
 - The remaining deprecations for 8.5
 - Bug fixes thanks to your testing and feedback
 
