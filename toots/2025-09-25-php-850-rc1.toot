@@ -1,0 +1,20 @@
+🎉 PHP 8.5.0 RC 1 is available for testing!
+
+This is the first release candidate for PHP 8.5, including
+
+- Implementation of remaining deprecations
+- Addition of a few warnings
+- Finishing up the new Uri extension
+- Bug fixes thanks to your testing and feedback
+
+… and more!
+
+➕ Do: Test your projects!
+
+➖ Don't: Run it in production. It's not fully ready yet.
+
+Congratulations to Daniel, @edorian@phpc.social, and @adoy@phpc.social
+
+🔗 https://www.php.net/archive/2025.php#2025-09-25-3
+
+#PHP #PHP85 #Release
