@@ -1,0 +1,18 @@
+🎉 PHP 8.5.0 RC 2 is available for testing!
+
+This is the second release candidate for PHP 8.5, including
+
+- Revert deprecation of __sleep() and __wakeup(). They're now soft-deprecated (Docs only) instead.
+- Lots of bug fixes thanks to your testing
+
+Details: https://github.com/php/php-src/blob/php-8.5.0RC2/NEWS
+
+➕ Do: Test your projects!
+
+➖ Don't: Run it in production. It's not fully ready yet.
+
+Congratulations to @edorian@phpc.social, Daniel, and @adoy@phpc.social
+
+🔗 https://www.php.net/archive/2025.php#2025-10-09-2 
+
+#PHP #PHP85 #Release
