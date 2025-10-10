@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name == 'pull_request'
     steps:
-      - uses: derickr/toot-together-action@visibility-option
+      - uses: derickr/toot-together-action@php-integration
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   toot:
@@ -17,7 +17,7 @@ jobs:
       - name: checkout master
         uses: actions/checkout@v5
       - name: Toot
-        uses: derickr/toot-together-action@visibility-option
+        uses: derickr/toot-together-action@php-integration
         with:
           visibility: "public"
         env:
