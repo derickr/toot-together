@@ -1,0 +1,13 @@
+🎉 PHP 8.5.0 RC 3 is available for testing!
+
+This is the third release candidate for PHP 8.5, including a lot of bug fixes and improvements.
+
+Details: https://github.com/php/php-src/blob/php-8.5.0RC3/NEWS
+
+➕ Do: Test your projects!
+
+➖ Don't: Run it in production. It's not fully ready yet.
+
+🔗 https://www.php.net/archive/2025.php#2025-10-23-1
+
+#PHP #PHP85 #Release
