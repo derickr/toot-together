@@ -1,0 +1,18 @@
+🎉 PHP 8.5.0 RC 4 ready for testing!
+
+The last planned release candidate for 8.5, includling
+
+- Downgrade to PCRE2 10.44, see GH-20341.
+- Final promoted properties w/o visibility not automatically assigned.
+- ReflectionClass::isIterable() incorrectly returns true for classes with property hooks.
+- More fixes thanks to your testing
+
+👀 https://github.com/php/php-src/blob/php-8.5.0RC4/NEWS
+
+Test! But don't run it in production just yet.
+
+Congratulations to @edorian@phpc.social, Daniel, and @adoy@phpc.social
+
+🔗 https://www.php.net/archive/2025.php#2025-11-06-1 
+
+#PHP #PHP85 #Release
