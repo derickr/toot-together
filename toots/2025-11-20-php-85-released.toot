@@ -1,0 +1,17 @@
+🥳 PHP 8.5 Released!
+
+In this new release, we have:
+
+🌐 URI Extension
+▶️ Pipe Operator
+📑 Clone With
+⚠️ A New #[\NoDiscard] Attribute
+🆕 Closures and First-Class Callables in Constant Expressions
+🌀 Persistent cURL Share Handles
+
+👓 Read all about it on: https://www.php.net/releases/8.5/
+
+🔗 https://php.net/ChangeLog-8#8.5.0
+📦 https://php.net/downloads
+
+#PHP #PHP85 #Release
