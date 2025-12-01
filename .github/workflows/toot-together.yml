@@ -15,7 +15,7 @@ jobs:
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     steps:
       - name: checkout master
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
       - name: Toot
         uses: derickr/toot-together-action@php-integration
         with:
