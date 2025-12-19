@@ -1,0 +1,20 @@
+📣 Announcing the immediate availability of:
+
+- PHP 8.1.34
+- PHP 8.2.30
+- PHP 8.3.29
+- PHP 8.4.16
+- PHP 8.5.1
+
+‼️ These address the following security issues:
+
+- PDO quoting result null deref
+- Null byte termination in dns_get_record()
+- Heap buffer overflow in array_merge()
+- Information Leak of Memory in getimagesize()
+
+📝 https://www.php.net/ChangeLog-8.php
+🎁 https://www.php.net/downloads
+:windows8: https://windows.php.net/download/
+
+#PHP #Release
