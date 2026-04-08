@@ -1,0 +1,10 @@
+🥧 PIE 1.4.0 has been released! New features include:
+
+ - experimental executable version of PIE
+ - prompt to install missing system dependencies
+ - prompt to install missing build tools
+ - support for pre-packaged-binaries where extensions provide them
+
+Full info: https://github.com/php/pie/releases/tag/1.4.0
+
+#php #phppie
