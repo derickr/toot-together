@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name == 'pull_request'
     steps:
-      - uses: derickr/toot-together-action@php-integration
+      - uses: joschi/toot-together@334ffdd4ef2647f4b94bb2f60a12047ba2738332 # v1.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   toot:
@@ -17,7 +17,7 @@ jobs:
       - name: checkout master
         uses: actions/checkout@v6
       - name: Toot
-        uses: derickr/toot-together-action@php-integration
+        uses: joschi/toot-together@334ffdd4ef2647f4b94bb2f60a12047ba2738332 # v1.3.0
         with:
           visibility: "public"
         env:
