@@ -15,7 +15,7 @@ jobs:
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     steps:
       - name: checkout master
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
       - name: Toot
         uses: joschi/toot-together@334ffdd4ef2647f4b94bb2f60a12047ba2738332 # v1.3.0
         with:
