@@ -1,0 +1,21 @@
+🎉 PHP 8.6.0 Alpha 1 is available for testing!
+
+In this very initial preview for PHP 8.6, we have:
+
+- A new scalable polling API in Io\Poll
+- class Uri\Rfc3986\UriBuilder
+- Improved JSON error messages including error positions
+- ReflectionProperty::isReadable() and ::isWritable()
+- clamp()
+- enum SortDirection
+
+… and more!
+
+✅ Test your projects
+❌ Not for production
+
+Congrats @joepferguson@phpc.social, @mbeccati@phpc.social, and Daniel Scherzer
+
+🔗 https://www.php.net/archive/2026.php#2026-07-02-3
+
+#PHP #Release #PHP86
