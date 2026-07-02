@@ -1,0 +1,18 @@
+📣 Announcing the immediate availability of:
+
+- PHP 8.2.32
+- PHP 8.3.32
+- PHP 8.4.23
+- PHP 8.5.8
+
+‼️ These address the following security issues:
+
+- Memory corruption in openssl_encrypt with AES-WRAP-PAD
+- Uninitialized memory in the path buffer growth in Lexbor
+- Segfault in file_get_contents w/ a https URL and a proxy set
+
+📝 https://www.php.net/ChangeLog-8.php
+🎁 https://www.php.net/downloads
+:windows8: Windows: https://www.php.net/downloads.php?os=windows
+
+#PHP #Release
