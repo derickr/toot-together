@@ -1,0 +1,20 @@
+🎉 PHP 8.6.0 Alpha 2 is available for testing!
+
+This continues the PHP 8.6 release cycle, featuring:
+
+- #[\Override] on class constants
+- CURLOPT_SEEKFUNCTION (et al)
+- Improved ZTS performance
+- Improved error messages in SOAP
+- Improved error messages for truncated JSON
+
+… and more!
+
+✅ Test your projects
+❌ Not for production
+
+Congrats @joepferguson@phpc.social, @mbeccati@phpc.social, and Daniel Scherzer
+
+🔗 https://www.php.net/archive/2026.php#2026-07-16-1
+
+#PHP #Release #PHP86
