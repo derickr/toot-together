@@ -1,0 +1,20 @@
+📣 Announcing the immediate availability of:
+
+- PHP 8.2.33
+- PHP 8.3.33
+- PHP 8.4.24
+- PHP 8.5.9
+
+‼️ These address the following security issues:
+
+- Leak on double DatePeriod::__construct() call
+- Upgrade libgd
+- SQL-injection via E'...' backslash breakout
+- Crash via recursive symlinks
+- OOB write in bccomp()
+
+📝 https://www.php.net/ChangeLog-8.php
+🎁 https://www.php.net/downloads
+:windows8: Windows: https://www.php.net/downloads.php?os=windows
+
+#PHP #Release
