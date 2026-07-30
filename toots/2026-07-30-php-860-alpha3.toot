@@ -1,0 +1,18 @@
+🎉 PHP 8.6.0 Alpha 3 is available for testing!
+
+This continues the PHP 8.6 release cycle, featuring:
+
+- Partial Function Application
+- New IO copy API for faster stream copying
+- Re-enable JIT for ZTS builds on Apple Silicon
+- Removed the dependency on the ICU IO library
+- New gmp_prevprime()
+
+… and more!
+
+✅ Test your projects
+❌ Not for production
+
+🔗 TODO
+
+#PHP #Release #PHP86
