@@ -6,7 +6,7 @@ This continues the PHP 8.6 release cycle, featuring:
 - New IO copy API for faster stream copying
 - Re-enable JIT for ZTS builds on Apple Silicon
 - Removed the dependency on the ICU IO library
-- New gmp_prevprime()
+- Several GMP improvements
 
 … and more!
 
