@@ -1,0 +1,18 @@
+🎉 PHP 8.6.0 Alpha 3 is available for testing!
+
+This continues the PHP 8.3 release cycle, featuring:
+
+- Implemented partial function application RFC
+- New IO copy API for faster stream copying
+- Several GMP improvements
+
+… and more!
+
+✅ Test your projects
+❌ Not for production
+
+Congrats @mbeccati@phpc.social, @joepferguson@phpc.social, and Daniel Scherzer
+
+🔗 https://www.php.net/archive/2026.php#2026-07-30-3
+
+#PHP #Release #PHP86
