@@ -1,0 +1,20 @@
+🎉 PHP 8.6.0 Beta 1 is available for testing!
+
+This is the first beta for PHP 8.6, including
+
+- First set of PHP 8.6 deprecations
+- Time\Duration class + Time\TimeException
+- Readonly properties
+- Closure optimizations
+
+… and more!
+
+➕ Do: Test your projects!
+
+➖ Don't: Run it in production. It's not fully ready yet.
+
+This marks PHP 8.6 Soft feature freeze: all RFCs must have their voting concluded
+
+🔗 https://www.php.net/archive/2026.php#2026-08-13-1
+
+#PHP #PHP86 #Release
