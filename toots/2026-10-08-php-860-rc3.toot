@@ -1,0 +1,19 @@
+🎉 PHP 8.6.0 RC3 is available for testing!
+
+This continues the PHP 8.6 release cycle, featuring:
+
+- New namespaced Openssl\Session
+- URI Builders fixes
+- Io\Poll polling API fixes
+- Compile-time array_map() optimization
+
+… and more!
+
+➕ Do: Test your projects!
+
+➖ Don't: Run it in production. It's not fully ready yet.
+
+
+🔗 https://www.php.net/archive/2026.php#2026-10-08-1
+
+#PHP #PHP86 #Release
