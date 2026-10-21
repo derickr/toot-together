@@ -1,0 +1,19 @@
+📣 Announcing the immediate availability of:
+
+- PHP 8.2.35
+- PHP 8.3.36
+- PHP 8.4.27
+- PHP 8.5.12
+
+‼️ These address the following critical security issues:
+
+- Remote Code Execution via Out of Memory corruption (CVE-2026-109618)
+- Remote Code Execution via Stale Global State (CVE-2026-109619)
+
+📝 https://www.php.net/ChangeLog-8.php
+🎁 https://www.php.net/downloads?source=Y
+:windows8: Windows: https://www.php.net/downloads.php?os=windows
+
+Read more: https://www.php.net/archive/2026.php#2026-10-21-5
+
+#PHP #Release #Security #CVE
