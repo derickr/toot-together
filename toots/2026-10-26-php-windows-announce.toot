@@ -1,0 +1,12 @@
+📣 Updated PHP Windows builds are now available:
+
+- PHP 8.2.35-1
+- PHP 8.3.36-1
+- PHP 8.4.27-1
+- PHP 8.5.12-1
+
+‼️ These builds include Brotli 1.2.1 to fix CVE-2026-111497, an out-of-bounds write in Brotli decompression. This vulnerability is in the bundled Brotli library, not PHP code.
+
+📝 Read more: https://www.php.net/archive/2026.php#2026-10-26-1
+
+#PHP #Windows #Release #Security #CVE
