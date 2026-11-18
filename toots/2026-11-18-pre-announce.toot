@@ -1,0 +1,9 @@
+📣 PHP security releases are scheduled for Thursday, 19 November 2026, 14:00–14:30 UTC, as part of our regular four-week release cycle.
+
+All supported PHP versions are affected. Highest severity: CRITICAL. Issues at this severity require non-default configuration or uncommon setups.
+
+Please prepare to upgrade promptly once the releases are available.
+
+🔗 https://www.php.net/archive/2026.php#2026-11-18-1
+
+#PHP #Release #Security
