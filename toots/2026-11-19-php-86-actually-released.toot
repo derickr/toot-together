@@ -1,0 +1,19 @@
+🎉 Announcing the immediate availability of PHP 8.6.0
+
+See what's new in this release already:
+
+* Partial Function Application
+* New \Time\Duration class
+* Polling API
+* New clamp() Function
+* New SortDirection Enum
+* Readonly Property Defaults
+
+👓 Read more about it: https://www.php.net/releases/8.6/
+
+🎁 https://www.php.net/downloads?source=Y
+:windows8: Windows: https://www.php.net/downloads.php?os=windows
+
+Issues list: https://www.php.net/ChangeLog-8.php#8.6.0
+
+#PHP #PHP86 #Release
