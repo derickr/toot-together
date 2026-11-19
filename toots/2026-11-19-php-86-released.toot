@@ -1,0 +1,16 @@
+🎉 It's PHP 8.6 Release Day!
+
+See what's new in this release already:
+
+* Partial Function Application
+* New \Time\Duration class
+* Polling API
+* New clamp() Function
+* New SortDirection Enum
+* Readonly Property Defaults
+
+👓 Read more about it: https://www.php.net/releases/8.6/
+
+Downloads will be ready later today!
+
+#PHP #PHP86 #Release
